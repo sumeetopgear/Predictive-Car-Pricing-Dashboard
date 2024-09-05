@@ -62,7 +62,8 @@ From folder **"src"** run the following files in this order:
 - Craigslist
 
 ### Screenshot of dashboard
-![Example Image](screenshot.png)
+![Example Image]![image](https://github.com/user-attachments/assets/eb1aa3ab-0c57-4492-bd8c-95638d270932)
+
 
 Contributors:
 Sumeet Jagtap - sumeetj2
